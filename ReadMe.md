@@ -80,7 +80,7 @@ The full database was exported using MySQL Workbench GUI and saved as `bookstore
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/bookstore-db-project.git
+git clone [https://github.com/your-username/bookstore-db-project.git](https://github.com/Kip-rotich46/bookstore-db.git)]
 ```
 
 2. Open MySQL Workbench or CLI.
@@ -95,14 +95,8 @@ SOURCE path/to/bookstore_export.sql;
 ## 👥 Contributors
 
 - **Gideon Kiprotich** (Team Lead)
-- **Hope Tshofe**
-- **Carey Mwaura Wangare**
-
----
-
-## 📆 Deadline
-
-> **Submission Deadline:** April 13, 2025, 11:59 PM EAT
+- **Hope Tshofe** (Erd Design)
+- **Carey Mwaura Wangare** (Db Creation)
 
 ---
 
