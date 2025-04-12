@@ -80,7 +80,7 @@ The full database was exported using MySQL Workbench GUI and saved as `bookstore
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/your-username/bookstore-db-project.git](https://github.com/Kip-rotich46/bookstore-db.git)]
+git clone [(https://github.com/Kip-rotich46/bookstore-db.git)]
 ```
 
 2. Open MySQL Workbench or CLI.
